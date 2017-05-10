@@ -1,2 +1,21 @@
-# cultural-equity
-Sacramento Metropolitan Arts Commission's DRAFT Cultural Equity Statement
+# Cultural Equity Statement 
+
+### DRAFT
+
+The Sacramento Metropolitan Arts Commission believes that all people in Sacramento County have the right to celebrate and engage in meaningful and relevant arts and cultural experiences. Each member of the community should experience arts which reflect and nourish their identity and self-esteem. The Arts Commission is committed to ensuring racial and cultural equity in its outreach, funding, leadership, resource allocation, partnerships, and programs. The Arts Commission believes that equity moves past inclusion and representation; accepting that power has created uneven starting points for some communities and individuals. 
+
+The Arts Commission defines **Cultural Equity** as the inclusion and fair representation of multiple diverse populations in outreach and in the allocation of funding, resources, and programs, providing equitable and fair treatment, access, opportunity, and advancement for all people, while at the same time striving to identify and eliminate barriers that have prevented the full participation of some communities. 
+
+The Arts Commission’s definition of **Diversity** includes all the ways in which people differ, including but not limited to, race, ethnicity, gender, socioeconomic status, age, gender identity, sexual orientation, disability, geography, citizenship status, religion, language, physical appearance, and those affiliating with multiple identities. Our definition also includes diversity of thought: ideas, perspectives, and values. 
+
+The Arts Commission defines **Access** as giving all individuals and organizations in Sacramento County fair and just pathways to appreciate and be exposed to the arts as well as attain information, financial resources and opportunities to fulfill cultural and artistic expression and development. 
+
+The Arts Commission defines **Communities** as municipalities, neighborhoods, social and cultural enclaves, diverse groups, and groups with distinct demographic characteristics residing within Sacramento County. 
+
+**The Sacramento Metropolitan Arts Commission commits to ensuring racial and cultural equity in all its policies and practices. To implement the principles of the Cultural Equity statement, the Arts Commission will engage in:**
+
+**Outreach and Engagement.** The Arts Commission will continually practice substantive outreach to multiple diverse communities to support involvement and engagement in Arts Commission opportunities, programs, resources, and partnerships and provide accessibility and inclusivity in all aspects of leadership, partnerships, and programs. The Arts Commission will advocate for equitable resources to support and serve multiple diverse populations specifically. 
+
+**Equity and Access.** The Arts Commission acknowledges that inequity is pervasive and historic. Simple diverse representation does not dismantle the unequal nature of voice, resource allocation, and visibility that exist in the arts and cultural ecosystems. Disparities and discrimination are daily occurrences that are entrenched in long standing majority privilege and power inside and outside of the arts; tackling issues surrounding these occurrences requires an understanding of the root causes of disparities within our society. The Arts Commission commits to systemic change that will remove barriers, thus improving access, empowerment and representation in the development and distribution of arts policy and resources to diverse communities and individuals. The Arts Commission acknowledges that there are different methods of communication, and embraces a variety of communication styles that will allow for equitable access. 
+
+**Accountability.** The Arts Commission will hold itself accountable by acknowledging that equity does not currently exist in the arts. The Arts Commission will provide transparent and inclusive processes in the selection and allocation of all arts funding, resources and the development of policies and practices. The Arts Commission commits to ongoing evaluation and review of the effectiveness of cultural equity practices and procedures, such as conducting and regularly revisiting a racial and cultural equity audit of the internal policies and external communications of our organization to provide internal guidance. The Arts Commission commits to sharing the results of cultural equity audits publicly.
