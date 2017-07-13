@@ -1,6 +1,6 @@
 # Cultural Equity Statement 
 
-### DRAFT
+### FINAL DRAFT
 
 The Sacramento Metropolitan Arts Commission believes that all people in Sacramento County have the right to celebrate and engage in meaningful and relevant arts and cultural experiences. Each member of the community should experience arts which reflect and nourish their identity and self-esteem. The Arts Commission is committed to ensuring racial and cultural equity in its outreach, funding, leadership, resource allocation, partnerships, and programs. The Arts Commission believes that equity moves past inclusion and representation; accepting that power has created uneven starting points for some communities and individuals. 
 
@@ -12,7 +12,7 @@ The Arts Commission defines **Access** as giving all individuals and organizatio
 
 The Arts Commission defines **Communities** as municipalities, neighborhoods, social and cultural enclaves, diverse groups, and groups with distinct demographic characteristics residing within Sacramento County. 
 
-**The Sacramento Metropolitan Arts Commission commits to ensuring racial and cultural equity in all its policies and practices. To implement the principles of the Cultural Equity statement, the Arts Commission will engage in:**
+**The Sacramento Metropolitan Arts Commission commits to ensuring racial and cultural equity in all its policies and practices. To implement the principles of the Cultural Equity statement, the Arts Commission will engage in:** 
 
 **Outreach and Engagement.** The Arts Commission will continually practice substantive outreach to multiple diverse communities to support involvement and engagement in Arts Commission opportunities, programs, resources, and partnerships and provide accessibility and inclusivity in all aspects of leadership, partnerships, and programs. The Arts Commission will advocate for equitable resources to support and serve multiple diverse populations specifically. 
 
