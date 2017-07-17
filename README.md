@@ -12,7 +12,7 @@ This Draft Statement of Inclusion ("Statement") reflects a commitment on behalf 
 
 ## Credit
 
-In January 2017,  a Cultural Equity Task Force, established to ensure that the policies and procedures of the Sacramento Metropolitan Arts Commission (SMAC) lead to grant awards that reflect the rich diversity (demographic, disciplinary, and cultural) of the population of Sacramento, convened for the first time. Sixteen members of the public were appointed to serve on the Task Force. After six months, their work concluded with the adoption of the Arts Commission's new Cultural Equity Statement.
+In January 2017,  a Cultural Equity Task Force, established to ensure that the policies and procedures of the Sacramento Metropolitan Arts Commission (SMAC) lead to grant awards that reflect the rich diversity (demographic, disciplinary, and cultural) of the population of Sacramento, convened for the first time. Sixteen members of the public were appointed to serve on the Task Force. In June 2017, the Cultural Equity Task Force presented a final draft of the Race and Cultural Equity Statement to the Arts Commission. The Arts Commission adopted the statement unanimously. 
 
 This Statement of Inclusion is a fork of SMAC's new [Cultural Equity Statement](http://www.sacmetroarts.org/-/media/MetroArts/Files/RCE-Task-Force-2016-17/2017-SMAC-Cultural-Equity-Statement---FINAL.pdf?la=en).
 
