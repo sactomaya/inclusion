@@ -1,23 +1,23 @@
-# Cultural Equity Statement
+![Mayor's Office for Innovation & Entrepreneurship](https://innovatesac.org/img/mofie/logo-full.svg "logo")
 
-### OPEN SOURCE DRAFT FOR PUBLIC COMMENT
+# Statement of Inclusion
 
-#### Comment on this draft statement at https://github.com/innovatesac/cultural-equity/issues/new 
+This Draft Statement of Inclusion ("Statement") reflects a commitment on behalf of the City of Sacramento Mayor's Office for Innovation & Entrepreneurship (MOFIE) to embed diversity and inclusion into the DNA of our organization. The Statement serves as a set of guiding principles that underlie the development and implementation of MOFIE's policies, programs, and practices.
 
-The City of Sacramento Mayor's Office for Innovation & Entrepreneurship (MOFIE) believes that all people in our City have the right to celebrate and engage in meaningful and relevant innovation and creative economy experiences. Each member of the community should experience innovation and creative economy experiences that reflect and nourish their identity and self-esteem. MOFIE is committed to ensuring racial and cultural equity in its outreach, funding, leadership, resource allocation, partnerships, and programs. MOFIE believes that equity moves past inclusion and representation; accepting that power has created uneven starting points for some communities and individuals.
+### [View the Current Draft of the Statement](https://github.com/innovatesac/inclusion/blob/master/STATEMENT.md)
 
-MOFIE defines **Cultural Equity** as the inclusion and fair representation of multiple diverse populations in outreach and in the allocation of funding, resources, and programs, providing equitable and fair treatment, access, opportunity, and advancement for all people, while at the same time striving to identify and eliminate barriers that have prevented the full participation of some communities.
+### [Submit Your Feedback on the Current Draft](https://goo.gl/forms/VXaSCVcEZcVk654s1)
 
-MOFIE’s definition of **Diversity** includes all the ways in which people differ, including but not limited to, race, ethnicity, gender, socioeconomic status, age, gender identity, sexual orientation, disability, geography, citizenship status, religion, language, physical appearance, and those affiliating with multiple identities. Our definition also includes diversity of thought: ideas, perspectives, and values.
+### [View the Feedback We've Received](https://github.com/innovatesac/inclusion/issues)
 
-MOFIE defines **Access** as giving all individuals and organizations in the City of Sacramento fair and just pathways to appreciate and be exposed to the innovation and creative economy as well as attain information, financial resources and opportunities to fulfill cultural and artistic expression and development.
+## Credit
 
-MOFIE defines **Communities** as municipalities, neighborhoods, social and cultural enclaves, diverse groups, and groups with distinct demographic characteristics residing within the City of Sacramento.
+In January 2017,  a Cultural Equity Task Force, established to ensure that the policies and procedures of the Sacramento Metropolitan Arts Commission (SMAC) lead to grant awards that reflect the rich diversity (demographic, disciplinary, and cultural) of the population of Sacramento, convened for the first time. Sixteen members of the public were appointed to serve on the Task Force. After six months, their work concluded with the adoption of the Arts Commission's new Cultural Equity Statement.
 
-**MOFIE commits to ensuring racial and cultural equity in all its policies and practices. To implement the principles of the Cultural Equity statement, MOFIE will engage in:**
+This Statement of Inclusion is a fork of SMAC's new [Cultural Equity Statement](http://www.sacmetroarts.org/-/media/MetroArts/Files/RCE-Task-Force-2016-17/2017-SMAC-Cultural-Equity-Statement---FINAL.pdf?la=en).
 
-**Outreach and Engagement.** MOFIE will continually practice substantive outreach to multiple diverse communities to support involvement and engagement in City of Sacramento opportunities, programs, resources, and partnerships and provide accessibility and inclusivity in all aspects of leadership, partnerships, and programs. MOFIE will advocate for equitable resources to support and serve multiple diverse populations specifically.
+## License
 
-**Equity and Access.** MOFIE acknowledges that inequity is pervasive and historic. Simple diverse representation does not dismantle the unequal nature of voice, resource allocation, and visibility that exist in the innovation and creative economy and cultural ecosystems. Disparities and discrimination are daily occurrences that are entrenched in long standing majority privilege and power inside and outside of the innovation and creative economy; tackling issues surrounding these occurrences requires an understanding of the root causes of disparities within our society. MOFIE commits to systemic change that will remove barriers, thus improving access, empowerment and representation in the development and distribution of innovation and creative economy policy and resources to diverse communities and individuals. MOFIE acknowledges that there are different methods of communication, and embraces a variety of communication styles that will allow for equitable access.
+This work has been dedicated to the Public Domain and contains a [CC0 “No Rights Reserved” license](https://github.com/innovatesac/inclusion/blob/master/LICENSE.md).
 
-**Accountability.** MOFIE will hold itself accountable by acknowledging that equity does not currently exist in the innovation and creative economy. MOFIE will provide transparent and inclusive processes in the selection and allocation of all innovation and creative economy funding, resources and the development of policies and practices. MOFIE commits to ongoing evaluation and review of the effectiveness of cultural equity practices and procedures, such as conducting and regularly revisiting a racial and cultural equity audit of the internal policies and external communications of our organization to provide internal guidance. MOFIE commits to sharing the results of cultural equity audits publicly.
+CC0 enables scientists, educators, artists and other creators and owners of copyright- or database-protected content to waive those interests in their works and thereby place them as completely as possible in the public domain, so that others may freely build upon, enhance and reuse the works for any purposes without restriction under copyright or database law.
