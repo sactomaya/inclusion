@@ -1,6 +1,6 @@
 # Statement of Inclusion
 
-## OPEN SOURCE DRAFT FOR PUBLIC COMMENT
+### OPEN SOURCE DRAFT FOR PUBLIC COMMENT
 
 ### [Submit Your Feedback on the Current Draft](https://goo.gl/forms/VXaSCVcEZcVk654s1)
 
